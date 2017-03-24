@@ -32,6 +32,8 @@ public class Main {
 		}
 		
 			met.testFunc(a);
+			//TEST 1. 추가사항
+			//로컬사항 변경됨
 	}
 
 }

@@ -33,6 +33,9 @@ public class Main {
 		
 			met.testFunc(a);
 			//TEST 1. 추가사항
+			//로컬사항 변경됨
+
+			// 원격 저장소 데이터 변경함
 	}
 
 }
