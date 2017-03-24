@@ -32,7 +32,6 @@ public class Main {
 		}
 		
 			met.testFunc(a);
-			//TEST 1. 추가사항
 	}
 
 }
